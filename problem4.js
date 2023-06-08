@@ -1,0 +1,1 @@
+//A word is given write a punction to tell if the word is a Palindrome
