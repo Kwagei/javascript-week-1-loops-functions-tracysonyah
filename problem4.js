@@ -15,4 +15,4 @@ function palindrum_or_not(word) {
 
     console.log(palindrum);
 }
-palindrum_or_not('level');
+palindrum_or_not('connie');
