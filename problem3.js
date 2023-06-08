@@ -3,5 +3,5 @@
 let arr = [1, 5, 30, 56, 3, 48, 67, 44, 7, 32];
 
 function highest_average() {
-    if(arr )
+    
 }
